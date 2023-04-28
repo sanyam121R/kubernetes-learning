@@ -16,7 +16,7 @@ Kubernetes is a portable, extensible, open source platform for managing containe
 
 Ingress exposes HTTP and HTTPS routes from outside the cluster to services within the cluster. Traffic routing is controlled by rules defined on the Ingress resource.
 
-<https://cloudeq-my.sharepoint.com/:w:/p/sanyam_rathore/EWMiEc0wQhJChGxbJzb_gakBPlXS9Xg82MARvV8KXWi52Q?e=kcyOk7>
+[Doc](https://cloudeq-my.sharepoint.com/:w:/p/sanyam_rathore/EWMiEc0wQhJChGxbJzb_gakBPlXS9Xg82MARvV8KXWi52Q?e=kcyOk7)
 
 ## Loadbalancing K8s
 
